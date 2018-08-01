@@ -1,0 +1,25 @@
+specializedMAC,FDMA,CDMA,TDMA,SDMA
+https://www.slideshare.net/poonampkc/unit-2-11466470
+
+FHSS
+https://www.slideshare.net/tanu_jaswal/presentation-on-fhss
+
+DSSS
+https://www.slideshare.net/anju1232008/digital-communication-32791212
+
+GMSK
+https://www.electronics-notes.com/articles/radio/modulation/what-is-gmsk-gaussian-minimum-shift-keying.php
+
+8PSK
+https://www.youtube.com/watch?v=Zh7qRwt2dOo   (6:13)
+https://www.techwalla.com/articles/modulation-differences-between-8psk-qpsk 
+https://www.techwalla.com/articles/modulation-differences-between-8psk-qpsk
+
+64QAM
+http://www.rfwireless-world.com/Terminology/Difference-between-512QAM-vs-1024QAM-vs-2048QAM-vs-4096QAM.html
+https://www.radio-electronics.com/info/rf-technology-design/quadrature-amplitude-modulation-qam/8qam-16qam-32qam-64qam-128qam-256qam.php
+
+OFDM
+https://www.slideshare.net/johnwthomas/introduction-to-ofdm
+
+chapter-3- media access control  from  given book
